@@ -10,7 +10,7 @@ Created on Wed Sep 17 20:21:11 2014
 @author: christianrodriguez
 """
 # specify directories
-resultsdir = '/Users/christianrodriguez/Dropbox/Python/data/nbackstim'
+resultsdir = '/Users/.../data/nbackstim'
 
 import random
 
