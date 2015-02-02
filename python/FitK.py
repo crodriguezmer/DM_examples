@@ -16,7 +16,7 @@ indicate a better quality fit. LL is the log-likelihood of the best fit.
 This is useful for statistical analysis of the significance of fitted 
 parameters (i.e. likelihood ratio test).
 
-@author: christianrodriguez (adapted from Matlab code borrowed from Sam McClure)
+@author: christianrodriguez 
 Check out:
 http://psych.stanford.edu/~dnl/
 http://en.wikipedia.org/wiki/Hyperbolic_discounting
