@@ -11,7 +11,7 @@
 % For a nice overview of what this script does, see:
 % http://www.fil.ion.ucl.ac.uk/spm/course/slides10-vancouver/02_General_Linear_Model.pdf
 
-addpath(genpath('/../spm8'))
+addpath(genpath('/../spm8'));
 % some of the functions called below are deeper in the spm directory
 % structure, thus genpath
 
